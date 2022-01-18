@@ -11,12 +11,12 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "Sniper Token",
-      "symbol": "SNPR",
-      "address": "0x031f7e8a0f17746f797cb4f7c0f18e99dee2aa96",
+      "name": "Bitcoin",
+      "symbol": "BTCB",
+      "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
       "chainId": 56,
       "decimals": 8,
-      "logoURI": "http://sniperswap.com/img/logo64.png"
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
     },
     {
       "name": "WBNB Token",

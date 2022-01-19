@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'http://sniperswap.com/',
+    href: 'https://still-snow-8763.on.fleek.co/',
   },
   {
     label: 'Trade',
